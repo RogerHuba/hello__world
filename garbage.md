@@ -6,7 +6,10 @@ This file is all about garbage:
 - messy
 
 (A)dd
+- git add name_of_file
 (C)ommit
+- git commit -m "your commit message here"
 (P)ush
+- git push origin main
 
 [<==Back](README.md)
